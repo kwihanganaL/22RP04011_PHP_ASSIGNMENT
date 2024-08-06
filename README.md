@@ -15,6 +15,8 @@ Requirements
 PHP: Version 7.4 or higher
 MySQL: Version 5.7 or higher
 Web Server: Apache or any compatible server
+IDE
+web browser
 
 Set Up the Database
 
